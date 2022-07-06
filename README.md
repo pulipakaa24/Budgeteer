@@ -1,5 +1,5 @@
 # Budgeteer
-Simple Android App Allowing Expense Tracking \n
+Simple Android App Allowing Expense Tracking  
 I have included the src folder, along with the Android APK, as the rest is unnecessary.
 
 # Implementation
