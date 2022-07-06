@@ -1,5 +1,5 @@
 # Budgeteer
-Simple Android App Allowing Expense Tracking  
+Simple Android App Allowing Expense Tracking, Final Project for CS50x 2020  
 I have included the src folder, along with the Android Studio debug APK, as the rest is unnecessary.
 
 # Info
